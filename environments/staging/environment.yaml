@@ -43,7 +43,7 @@ app:
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: "b125aff0-856a-4dae-8f79-a9dac5012157"
+  version: "6bc933e1-b311-441c-9b99-bf14b97d1f38"
   libertyVersionPolicy : "latest"
 # probes
 # dynamic scaling
