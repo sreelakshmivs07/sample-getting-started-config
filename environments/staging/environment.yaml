@@ -45,7 +45,7 @@ app:
 
   version: "baf0efd1-1e5c-43ba-b481-86fd7383c7cd"
   libertyVersionPolicy : "latest"
-  libertyVersion: 25.0.0.3
+  libertyVersion: ""
 # probes
 # dynamic scaling
 # scaling to 0
