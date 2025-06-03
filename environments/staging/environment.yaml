@@ -6,7 +6,7 @@ app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
-  version: "6bc933e1-b311-441c-9b99-bf14b97d1f38"
+  version: "980c7ddd-1e79-44b8-b93e-a12425160739"
   libertyVersionPolicy : "latest"
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
